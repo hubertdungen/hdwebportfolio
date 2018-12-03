@@ -1,5 +1,5 @@
-# hdwebportfolio
-"Hubert Dungen Website Portfolio" is a personal project to show others my skills on: graphic design, photography, storyboard, vectorization, 3D modeling, hmtl5, css and javascript. The best way I idealized was to make an interactive website with my gallery and some info for clients. 
+# Introduction
+***"Hubert Dungen Website Portfolio"*** **is a personal project to show others my skills on: graphic design, photography, storyboard, vectorization, 3D modeling, hmtl5, css and javascript. The best way I idealized was to make an interactive website with my gallery and some info for clients.** 
 
 # How to Open/Run the website?
 Start the website by downloading the project folder and running the index.html file.
