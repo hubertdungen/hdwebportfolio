@@ -1,9 +1,6 @@
 # Introduction
 ***"Hubert Dungen Website Portfolio"*** **is a personal project publish online my professional skills: graphic design, photography, storyboard, vectorization, 3D modeling, hmtl5, css and javascript. The best way I idealized was to make an interactive website with a gallery and some info for clients.** 
 
-# How to Open/Run the website?
-Start the website by downloading the project folder and running the index.html file.
-
 # Used Software
 I mostly used Brackets. For the sketch and all the graphic design I used Adobe Illustrator CC and Adobe Photoshop CC. 
 
@@ -34,3 +31,10 @@ The background must contain independent layers of image objects that will build 
 
 # Websites Files & Loading
 Besides being interactive and complex, the website should also be quick to load, of course it'll never be as quick as an ordinary website, but nevertheless I should think on the user side. For that almost all images will be vectorized, being the unique exception the blended texture layer applied on the background.
+The files should also be well organized and named.
+
+# Web Hosting
+I already have my own dominion. I just need to choose a good server host. 
+
+# How to Open/Run the website?
+Start the website by downloading the project folder and running the index.html file.
