@@ -4,7 +4,7 @@
 # How to Open/Run the website?
 Start the website by downloading the project folder and running the index.html file.
 
-# What software did you use to build the website?
+# Used Software
 I mostly used Brackets. For the sketch and all the graphic design I used Adobe Illustrator CC and Adobe Photoshop CC. 
 
 # Website Map
