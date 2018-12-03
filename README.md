@@ -20,7 +20,7 @@ The website has 5 pages: Home, Portfolio, Services, About and Contact.
 > **Contact** is the contact form (send emails to my personal email) and has my contacts information.
 
 # Design Concept 
-This website is inspired on Synthwave and Retro Futurism. While getting some flashy colors and being animated, it's still clean and breathable. Each page have a character represented by a vector silhouette, all characters are in military themed. The characters should be on synthwave inspired backgrounds. With this, the website should be interactive, and instead of just flat common website (webstores, forums, wikis, etc...) we should experience something with this one, we should feel that there is actually something behind the buttons and behind all information. 
+This website is inspired on Synthwave and Retro Futurism. While getting some flashy colors and being animated, it's still clean and breathable. Each page have a character represented by a vector silhouette, all characters are military themed. The characters should be on synthwave inspired backgrounds. With this, the website should be interactive, and instead of just flat common website (webstores, forums, wikis, etc...) we should experience something with this one, we should feel that there is actually something behind the buttons and behind all information. 
 The background must contain independent layers of image objects that will build an interactive illusory 3D world (synthwave inspired) applying motion to them. As you can see, if you go take a look at the background folder and at the CSS code, it has independent layers for each piece of the background. 
 
 # Interactive Concept
