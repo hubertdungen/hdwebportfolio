@@ -9,7 +9,7 @@ I mostly used Brackets. For the sketch and all the graphic design I used Adobe I
 
 # Website Map
 The website has 5 pages: Home, Portfolio, Services, About and Contact.
-> **Home** is simply the homepage where you can freely interact with the background and understand what is the website about. 
+> **Home** is simply the homepage where you can freely interact with the background and understand what is the website about.
 > **Portfolio** is where you can find the Gallery of my best projects, categorized by areas (Graphic Design, Photography, Concept Art, Storyboarding, Traditional Drawing, 3D Modeling).
 > **Services** is the page to inform how is my method of work and what kind of services I do.
 > **About** tells more about me.
