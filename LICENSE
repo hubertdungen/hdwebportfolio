@@ -3,7 +3,7 @@
    1. Definitions.
 
       "License" shall mean the terms and conditions for use, reproduction,
-      and distribution as defined by Sections 1 through 9 of this document.
+      and distribution as defined by Sections 1 through 11 of this document.
 
       "Licensor" shall mean the copyright owner or entity authorized by
       the copyright owner that is granting the License.
@@ -63,7 +63,7 @@
       discretely in a computer storage device. Just as words can be written 
       to paper, so can information be written to a computer file. 
       A Digital File must be designed to store a picture, a written message,
-      a video, a computer program, or a wide variety of other kinds of data
+      a video, a Computer Program, or a wide variety of other kinds of data
       which has sense and it is useful in some way.
       
       "Image" shall mean specifically any image, video, graphical content,
@@ -74,15 +74,14 @@
       person, thus providing a depiction of it. In context of image signal 
       processing, an image is a distributed amplitude of color(s).
       
-      "Image File" shall mean a Work, a build and codded Digital File 
-      which builds an Image content or Image artwork. Image Files are 
-      standardized means of organizing and storing digital images. Image 
-      Files are composed of digital data in one of these formats that can 
-      be rasterized for use on a computer display or printer. An image file 
-      format may store data in uncompressed, compressed, or vector formats. 
-      Once rasterized, an image becomes a grid of pixels, each of which has a 
-      number of bits to designate its color equal to the color depth of the 
-      device displaying it.
+      "Image File" shall mean a codded Digital File which builds an Image 
+      content or Image artwork. Image Files are standardized means of 
+      organizing and storing digital images. Image Files are composed of 
+      digital data in one of these formats that can be rasterized for use on 
+      a computer display or printer. An image file format may store data in 
+      uncompressed, compressed, or vector formats. Once rasterized, an Image 
+      becomes a grid of pixels, each of which has a number of bits to designate 
+      its color equal to the color depth of the device displaying it.
       The file extensions included on this definition are defined on the 
       following lists in these website pages: 
       "https://fileinfo.com/filetypes/raster_image", 
@@ -109,10 +108,10 @@
       "Programming Work" shall mean specifically all files that contains text,
       codding work, contains Computer Programming information or is a Computer 
       Program. Programming Work definition does not include Image content, does 
-      not include Image as Object or Digital Files, does not include files that 
-      contain text which in someway builds an Image artwork, does not include 
-      all Image File formats that exist and all Image files that will exist 
-      in the future. 
+      not include Image as Object or as Digital File, does not include files 
+      that contain text which in someway builds an Image File, does not 
+      include all Image File formats that exist and all Image Files that will 
+      exist in the future. 
 
    2. Grant of Copyright License. Subject to the terms and conditions of
       this License, each Contributor hereby grants to You, a perpetual,
@@ -138,13 +137,27 @@
       licenses granted to You under this License for that Progamming Work 
       shall terminate as of the date such litigation is filed.
 
-   4. Redistribution. You may reproduce and distribute copies of the
+   4. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You, a perpetual,
+      worldwide, non-exclusive, no-charge, irrevocable copyright license to
+      merely use, reproduce, prepare Derivative Image Works of,
+      download, the Image Work and Image Files and such Derivative Image
+      Works in Source or Object form. Distribution, publicly displaying, 
+      publicly performing, sublicensing, and selling the Image Work and
+      such Derivative Image Works in Source or Object are constituents of 
+      crime and such responsibility is taken from the moment that You 
+      commit one or more of those actions.
+      
+   5. Patent License isn't granted for Image Works and Image Files that you
+      can find on the project.
+
+   6. Redistribution. You may reproduce and distribute copies of the
       Programming Work or Derivative Programming Works thereof in any medium, 
-      with or without modifications, and in Source or Object form, provided 
+      with modifications, and in Source or Object form, provided 
       that You meet the following conditions:
 
-      (a) You must give any other recipients of the Work or
-          Derivative Works a copy of this License; and
+      (a) You must give any other recipients of the Programming Work or
+          Derivative Programming Works a copy of this License; and
 
       (b) You must cause any modified files to carry prominent notices
           stating that You changed the files; and
@@ -179,7 +192,7 @@
       reproduction, and distribution of the Work otherwise complies with
       the conditions stated in this License.
 
-   5. Submission of Contributions. Unless You explicitly state otherwise,
+   7. Submission of Contributions. Unless You explicitly state otherwise,
       any Contribution intentionally submitted for inclusion in the Work
       by You to the Licensor shall be under the terms and conditions of
       this License, without any additional terms or conditions.
@@ -187,12 +200,12 @@
       the terms of any separate license agreement you may have executed
       with Licensor regarding such Contributions.
 
-   6. Trademarks. This License does not grant permission to use the trade
+   8. Trademarks. This License does not grant permission to use the trade
       names, trademarks, service marks, or product names of the Licensor,
       except as required for reasonable and customary use in describing the
       origin of the Work and reproducing the content of the NOTICE file.
 
-   7. Disclaimer of Warranty. Unless required by applicable law or
+   9. Disclaimer of Warranty. Unless required by applicable law or
       agreed to in writing, Licensor provides the Work (and each
       Contributor provides its Contributions) on an "AS IS" BASIS,
       WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
@@ -202,7 +215,7 @@
       appropriateness of using or redistributing the Work and assume any
       risks associated with Your exercise of permissions under this License.
 
-   8. Limitation of Liability. In no event and under no legal theory,
+  10. Limitation of Liability. In no event and under no legal theory,
       whether in tort (including negligence), contract, or otherwise,
       unless required by applicable law (such as deliberate and grossly
       negligent acts) or agreed to in writing, shall any Contributor be
@@ -214,7 +227,7 @@
       other commercial damages or losses), even if such Contributor
       has been advised of the possibility of such damages.
 
-   9. Accepting Warranty or Additional Liability. While redistributing
+  11. Accepting Warranty or Additional Liability. While redistributing
       the Work or Derivative Works thereof, You may choose to offer,
       and charge a fee for, acceptance of support, warranty, indemnity,
       or other liability obligations and/or rights consistent with this
