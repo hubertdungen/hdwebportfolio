@@ -1,5 +1,5 @@
 # Introduction
-***"Hubert Dungen Website Portfolio"*** **is a personal project publish online my professional skills: graphic design, photography, storyboard, vectorization, 3D modeling, hmtl5, css and javascript. The best way I idealized was to make an interactive website with a gallery and some info for clients.** 
+***"Hubert Dungen Website Portfolio"*** **is a personal project to publish online my professional skills: graphic design, photography, storyboard, vectorization, 3D modeling, hmtl5, css and javascript. The best way I idealized was to make an interactive website with a gallery and some info for clients.** 
 
 # Used Software
 I mostly used Brackets. For the sketch and all the graphic design I used Adobe Illustrator CC and Adobe Photoshop CC. 
