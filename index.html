@@ -5,11 +5,10 @@
 <!--    -----    -->
    <meta charset="utf-8">
     <title>Hubert Dungen | Portfolio</title>
-    <meta name="title" content="Hubert Dungen | Portfolio | Graphic Designer" />
     <meta name="description" content="The Hubert Dungen Portfolio Website. A Nostalgic Graphic Designer that experts on originality and simplicity." />
     <meta name="author" content="Hubert Dungen">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
-    
+
     
 <!--    LINKS    -->
 <!--    -----    -->
@@ -17,15 +16,12 @@
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,400,700" rel="stylesheet"> 
 	<link rel="image_src" href="/Croqui/Pagina%201_HOME%20PAGE.jpg" />
     <link rel="shortcut icon" id="favicon" href="Logo3D.png"> 
-    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script type="text/javascript" src="jquery.interactive_bg.js"></script>   
-    <script type="text/javascript" src="homejs.js"></script>
 </head>
     
-    
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<script src="turbo-parallax.js"></script>
 
 <body>
-
 <!--    VIDEO    -->
 <!--    -----    -->
 <!--
@@ -78,11 +74,10 @@
                             <a href=""> CONTACT </a>
                             <div class=expandedline></div>
                         </li>
-
-            </ul>
-            
-                
+            </ul>        
         </div>
+        
+        
     </header>
     
 
@@ -110,22 +105,36 @@
     
 <!--    BG STRUCTURE    -->
 <!--    ------------    -->
-    <div class=bgstruct>
-        <div id="bgtexture"><img src="bgs/homepage/PNG/Asset%2041.png"></div>
-        <div id="bgtopgrad"><img src="bgs/homepage/SVG/Asset%2045_TopRedGrad.svg"></div>
-        <div id="bgmil1"><img src="bgs/homepage/SVG/Asset%2046_Military1.svg"></div>
+
+    
+    
+    <div id="scene" class="scene">
+        <div data-turbo-parallax="{'zoom': 1.1, 'depth': 60}" id="bgtexture"></div>
+        <div id="bgtopgrad"></div>
+        <div data-turbo-parallax="{'zoom': 1, 'depth': 700}" id="bgmil1"></div>
         <div id="bgbackgrad"><img src="bgs/homepage/SVG/Asset%2047_BackRedGrad.svg"></div>
-        <div id="bgcityclose"><img src="bgs/homepage/SVG/Asset%2034_CityClose.svg"></div>
-        <div id="bgcityfar"><img src="bgs/homepage/SVG/Asset%2028_CityFar.svg"></div>
-        <div id="bgwhitesun"><img src="bgs/homepage/SVG/Asset%2035_WhiteSun.svg"></div>
-        <div id="bgsandsun"><img src="bgs/homepage/SVG/Asset%2036_SandSun.svg"></div>
-        <div id="bgdesertsun"><img src="bgs/homepage/SVG/Asset%2037_DesertSun.svg"></div>
-        <div id="bgorangesun" data-ibg-bg="bgs/homepage/SVG/Asset%2038_OrangeSun.svg"></div>
+        <div data-turbo-parallax="{'zoom': 0, 'depth': 200}" id="bgcityclose"></div>
+        <div data-turbo-parallax="{'zoom': 0, 'depth': 150}" id="bgcityfar"></div>
+        <div data-turbo-parallax="{'zoom': 0, 'depth': 85}" id="bgwhitesun"></div>
+        <div data-turbo-parallax="{'zoom': 0, 'depth': 32}" id="bgsandsun"></div>
+        <div data-turbo-parallax="{'zoom': 0, 'depth': 18}" id="bgdesertsun"></div>
+        <div data-turbo-parallax="{'zoom': 0, 'depth': 10}" id="bgorangesun"></div>
         <div id=bgbg></div>
     </div>
-     
+    
+
+<!--
+    
+    <img src="bgs/homepage/SVG/Asset%2045_TopRedGrad.svg">
+-->
+    
+
     
 </body>
-    
+  
+    <!-- Scripts -->
+    <script>
+        let parallax = new TurboParallax();
+    </script>
 
 </html>
